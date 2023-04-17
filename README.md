@@ -1,2 +1,2 @@
 # Altstadtrundgang
-Diese Webseite hilft euch die besten Sehenswürdigkeit Frauenfelds zu finden
+Diese Webseite hilft euch die besten Sehenswürdigkeiten Frauenfelds zu finden
