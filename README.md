@@ -1,8 +1,7 @@
 # Altstadtrundgang
 Diese Webseite hilft euch die besten Sehenswürdigkeiten Frauenfelds zu finden
 
-
-## Beschreibung des Rundganges
+Beschreibung des Rundganges
 
 1. [Schloss Frauenfeld](#schloss-frauenfeld)
 2. [Sämannsbrunnen](#sämannsbrunnen)
